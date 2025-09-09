@@ -24,5 +24,3 @@ menghitung IPK menggunakan rumus total bobot nilai dibagi total SKS. Hasil akhir
 Program ini adalah aplikasi sederhana berbasis C++ yang digunakan untuk mengatur urutan nama teman sekelas. Pengguna bisa memasukkan beberapa nama, lalu program akan menampilkan daftar nama sebelum dan setelah diurutkan. Pengurutan data menggunakan algoritma bubble sort dengan dua opsi, yaitu urutan dari A hingga Z atau dari Z hingga A. Antarmuka program dirancang dengan menu yang bisa diakses, nomor untuk setiap data, serta garis pemisah agar hasilnya lebih rapi dan mudah dibaca. Program ini bisa digunakan sebagai latihan dasar dalam memahami penggunaan array, perulangan, pengurutan data, serta pengelolaan input dan output dalam bahasa C++.
 ---
 
-
-## Cara Menjalankan
